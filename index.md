@@ -8,7 +8,7 @@
 - 3 years of expience as a full stack developer.  
 - Designed, developed, and brought to production various products.  
 - Developed frameworks for cross network communication between enterprise applications.  
-- Publichsed several open-source modules on GitHub.  
+- Published several open-source modules on GitHub.  
 
 ## Education
 **University of Waikato, Hamilton, NZ**  
