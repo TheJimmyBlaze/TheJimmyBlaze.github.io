@@ -50,7 +50,7 @@ Simple TCPIP based network library designed to simplify implementation of TCPIP 
 - .NET memmory marshaling.  
 - .NET TCPIP networking.  
 
-[Development Blog](https://github.com/TheJimmyBlaze/BlazorDevBlog)
+[Development Blog](https://github.com/TheJimmyBlaze/DevBlog)
 Blazor website written in .NET using Bootstrap front end and server side rendering techniques.
 - Inversion of Control, and Dependency Inject.
 - Blazor, and Bootstrap practice.
