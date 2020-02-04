@@ -2,6 +2,7 @@
 [022 172 6116](tel:0221726116)  
 
 > [Github.com/TheJimmyBlaze](https://github.com/TheJimmyBlaze)  
+[Development Blog](https://camerontaylor.azurewebsites.net)
 
 # Cameron Taylor &ndash; Full Stack Developer  
 - 3 years of expience as a full stack developer.  
