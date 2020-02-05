@@ -51,11 +51,11 @@ Simple TCPIP based network library designed to simplify implementation of TCPIP 
 - .NET memmory marshaling.  
 - .NET TCPIP networking.  
 
-[Development Blog](https://github.com/TheJimmyBlaze/DevBlog)
-Blazor website written in .NET using Bootstrap front end and server side rendering techniques.
-- Inversion of Control, and Dependency Inject.
-- Blazor, and Bootstrap practice.
-- Json object serialization.
+[Development Blog](https://github.com/TheJimmyBlaze/DevBlog)  
+Blazor website written in .NET using Bootstrap front end and server side rendering techniques.  
+- Inversion of Control, and Dependency Inject.  
+- Blazor, and Bootstrap practice.  
+- Json object serialization.  
 - Platform for personal project planning and documentation.  
   
->(Get this as a .PDF)[https://github.com/TheJimmyBlaze/TheJimmyBlaze.github.io/blob/master/Resume.pdf]  
+>[Get this as a .PDF](https://github.com/TheJimmyBlaze/TheJimmyBlaze.github.io/blob/master/Resume.pdf])
