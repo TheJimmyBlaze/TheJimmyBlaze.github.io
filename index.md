@@ -56,4 +56,6 @@ Blazor website written in .NET using Bootstrap front end and server side renderi
 - Inversion of Control, and Dependency Inject.
 - Blazor, and Bootstrap practice.
 - Json object serialization.
-- Platform for personal project planning and documentation.
+- Platform for personal project planning and documentation.  
+  
+>(Get this as a .PDF)[https://github.com/TheJimmyBlaze/TheJimmyBlaze.github.io/blob/master/Resume.pdf]  
