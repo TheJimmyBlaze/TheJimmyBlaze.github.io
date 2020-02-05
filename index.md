@@ -22,7 +22,7 @@ Bachelors of Computer and Mathematical Science
 - Programming Languages &ndash; C#, VB, Java, HTML, CSS
 - Databases &ndash; SQL Server, MySQL, Dapper, Entity Framework
 - Frameworks &ndash; .NET framework, .NET Core, Amazon Web Services, Blazor, Bootstrap, Lucene
-- Architectural Patterns &ndash; Model View View Model, Model View Controller, Server Side Rendering, Inversion of Control
+- Architectural Patterns &ndash; Model View Viewmodel, Model View Controller, Server Side Rendering, Inversion of Control
 - IDEs &ndash; Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman
 - Graphical Editors &ndash; Paint.NET
 
