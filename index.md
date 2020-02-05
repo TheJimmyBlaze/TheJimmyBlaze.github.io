@@ -58,4 +58,5 @@ Blazor website written in .NET using Bootstrap front end and server side renderi
 - Json object serialization.  
 - Platform for personal project planning and documentation.  
   
+## Resume PDF Download  
 >[Get this as a .PDF](https://github.com/TheJimmyBlaze/TheJimmyBlaze.github.io/blob/master/Resume.pdf])
