@@ -38,7 +38,7 @@ real time data synching between Desktop and Mobile workshop management systems.
 
 **Waikato Ethnic Family Service Trust**  
 *October 2017 &ndash; January 2018*  
-- Desinged and developed a customer database, and interfacing tools.
+- Designed and developed a customer database, and interfacing tools.
 - Designed MySQL database for storing customer information, and developed ASP.NET web API for interacting with it.
 - Designed and developed web Front-end for managing customer information in Javascript, HTML, and CSS
 - Worked as a solo developer managing the project with a 3 month time frame for completion.
