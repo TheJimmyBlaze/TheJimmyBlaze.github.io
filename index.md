@@ -48,7 +48,7 @@ real time data synching between Desktop and Mobile workshop management systems.
 Simple TCPIP based network library designed to simplify implementation of TCPIP application development in .NET.  
 - Asyncronous, thread safe, non-blocking operations.  
 - Events and event hooking.  
-- .NET memmory marshaling.  
+- .NET memory marshaling.  
 - .NET TCPIP networking.  
 
 [Development Blog](https://github.com/TheJimmyBlaze/DevBlog)  
@@ -58,5 +58,3 @@ Blazor website written in .NET using Bootstrap front end and server side renderi
 - Json object serialization.  
 - Platform for personal project planning and documentation.  
   
-## Resume PDF Download  
->[Get this as a .PDF](https://github.com/TheJimmyBlaze/TheJimmyBlaze.github.io/blob/master/Resume.pdf])
