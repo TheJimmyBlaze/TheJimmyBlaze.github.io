@@ -17,6 +17,14 @@ Bachelors of Computer and Mathematical Science
 - Extremely Parallel Programming  
 - Design and Analysis of Algorithms  
 - Database Practice and Experience  
+- Cyber Security
+- Surveillance and Accountability
+- Computer Communications
+- Artificial Intelligence Teqniques and Applications
+- Mobile Applications
+- Operating Systems
+- Software Engineering Techniques
+- Human-Computer Interactions
 
 ## Skills / Tools
 - Programming Languages &ndash; C#, VB, Java, HTML, CSS
@@ -58,3 +66,10 @@ Blazor website written in .NET using Bootstrap front end and server side renderi
 - Json object serialization.  
 - Platform for personal project planning and documentation.  
   
+[Alchemist Online](https://github.com/thejimmyblaze/alchemistonline)  
+Idle game based arround exploring for alchemical ingredients and crafting them into potions.  
+- ASP.NET Core.  
+- Entity Framework Core.  
+- ASP.NET Web API.  
+- Angular JS.  
+- Material Design.  
