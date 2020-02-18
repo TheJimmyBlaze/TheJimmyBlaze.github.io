@@ -30,7 +30,7 @@ Bachelors of Computer and Mathematical Science
 - Programming Languages &ndash; C#, VB, Java, HTML, CSS  
 - Databases &ndash; SQL Server, MySQL, Dapper, Entity Framework  
 - Frameworks &ndash; .NET framework, .NET Core, Amazon Web Services, Blazor, Bootstrap, Lucene  
-- Architectural Patterns &ndash; Model View Viewmodel, Model View Controller, Server Side Rendering, Inversion of Control  
+- Architectural Patterns &ndash; Model View Viewodel, Model View Controller, Server Side Rendering, Inversion of Control  
 - Cloud Computing &ndash; Amazon Web Services (EC2, S3, RDS), Azure (App Services, SignalR, SQL databases)  
 - Cyber Security &ndash; PKI (Open SSL, .Net X509Certificates), SSL, SHA256, OAuth (Jwt Tokens)  
 - IDEs &ndash; Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman  
@@ -39,7 +39,7 @@ Bachelors of Computer and Mathematical Science
 ## Experience  
 **COMSOL (Computer Solutions .Ltd)**  
 *January 2018 &ndash; Current*  
-- Designed, developed, and brought to market backend TCPIP network infrustructure (and partial work on front end mobile app) for 
+- Designed, developed, and brought to market backend TCPIP network infrastructure (and partial work on front end mobile app) for 
 real time data synching between Desktop and Mobile workshop management systems.  
 - Developed and brought to market VB .NET Quoting Application.
 - Reverse engineering and replatforming of 10+ year old c++ rich text document merging engine in C# .NET.  
