@@ -27,7 +27,7 @@ Bachelors of Computer and Mathematical Science
 - Human-Computer Interactions  
 
 ## Skills / Tools
-- Programming Languages &ndash; C#, VB, Java, HTML, CSS  
+- Programming Languages &ndash; C#, VB, Java, Javascript, HTML, CSS  
 - Databases &ndash; SQL Server, MySQL, Dapper, Entity Framework  
 - Frameworks &ndash; .NET framework, .NET Core, Amazon Web Services, Blazor, Bootstrap, Lucene  
 - Architectural Patterns &ndash; Model View Viewodel, Model View Controller, Server Side Rendering, Inversion of Control  
