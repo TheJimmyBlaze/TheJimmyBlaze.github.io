@@ -32,7 +32,7 @@ Bachelors of Computer and Mathematical Science
 - Frameworks &ndash; .NET framework, .NET Core, Amazon Web Services, Blazor, Bootstrap, Lucene  
 - Architectural Patterns &ndash; Model View Viewmodel, Model View Controller, Server Side Rendering, Inversion of Control  
 - Cloud Computing &ndash; Amazon Web Services (EC2, S3, RDS), Azure (App Services, SignalR, SQL databases)  
-- Cyber Security &ndash; PKI, SHA256, HTTPS  
+- Cyber Security &ndash; PKI (Open SSL, .Net X509Certificates), SSL, SHA256, OAuth (Jwt Tokens) 
 - IDEs &ndash; Visual Studio, Visual Studio Code, SQL Server Management Studio, Postman  
 - Graphical Editors &ndash; Paint.NET  
 
