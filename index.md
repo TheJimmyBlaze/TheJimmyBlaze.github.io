@@ -58,7 +58,7 @@ real time data synching between Desktop and Mobile workshop management systems.
 Simple TCPIP based network library designed to simplify implementation of TCPIP application development in .NET.  
 - Asyncronous, thread safe, non-blocking operations.  
 - Events and event hooking.  
-- .NET memory marshaling.  
+- .NET memory marshalling.  
 - .NET TCPIP networking.  
 
 [Development Blog](https://github.com/TheJimmyBlaze/DevBlog)  
